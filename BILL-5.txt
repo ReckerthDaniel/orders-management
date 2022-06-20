@@ -1,0 +1,6 @@
+BILL NO 5
+PurchaseOrder{id=5, purchaseDate=2022-06-20, client_id=1, order_id=5}
+Client{id=1, name=Updated Client 1, address=Address 1, phone=0723562365}
+Order{id=5, quantity=150.0, totalPrice=45.0, product_id=1}
+Product{id=1, description='Apples', price=0.3, stock=115.0}
+

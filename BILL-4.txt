@@ -1,0 +1,6 @@
+BILL NO 4
+PurchaseOrder{id=4, purchaseDate=2022-06-20, client_id=1, order_id=2}
+Client{id=1, name=Updated Client 1, address=Address 1, phone=0723562365}
+Order{id=2, quantity=2.0, totalPrice=24.1, product_id=2}
+Product{id=2, description='Pringles Updated', price=12.05, stock=2.0}
+
